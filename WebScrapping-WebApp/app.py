@@ -32,11 +32,6 @@ def getItems():
     rows = commodities_table.find_all('tr')
 
     como = []
-    name = []
-    price = []
-    change = []
-    per_change = []
-    date = []
     for row in rows:
         data = row.find_all('td')
         
@@ -54,7 +49,6 @@ def getItems():
         como.append(commodityJson)
     return como
 
-
 app = Flask(__name__)
 # CORS(app)
 CORS(app, origins=["http://localhost:3000", ])
@@ -63,9 +57,6 @@ CORS(app, origins=["http://localhost:3000", ])
 def hello_world():
     como = getItems()
     return jsonify(como)
-
-    
-
 
 if __name__ == "__main__":
     app.run(debug=True)
