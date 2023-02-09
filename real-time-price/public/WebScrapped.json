@@ -1,0 +1,65 @@
+[
+    {
+      "change": "678.00", 
+      "date": "03 Feb 2023", 
+      "name": "GOLD", 
+      "per_change": "1.18", 
+      "price": "57,920.00"
+    }, 
+    {
+      "change": "1,031.00", 
+      "date": "03 Mar 2023", 
+      "name": "SILVER", 
+      "per_change": "1.50", 
+      "price": "69,860.00"
+    }, 
+    {
+      "change": "-181.00", 
+      "date": "17 Feb 2023", 
+      "name": "CRUDEOIL", 
+      "per_change": "-2.80", 
+      "price": "6,282.00"
+    }, 
+    {
+      "change": "-13.00", 
+      "date": "23 Feb 2023", 
+      "name": "NATURALGAS", 
+      "per_change": "-5.80", 
+      "price": "211.10"
+    }, 
+    {
+      "change": "-0.65", 
+      "date": "28 Feb 2023", 
+      "name": "ALUMINIUM", 
+      "per_change": "-0.29", 
+      "price": "225.25"
+    }, 
+    {
+      "change": "-5.40", 
+      "date": "28 Feb 2023", 
+      "name": "COPPER", 
+      "per_change": "-0.69", 
+      "price": "782.20"
+    }, 
+    {
+      "change": "-0.75", 
+      "date": "28 Feb 2023", 
+      "name": "LEAD", 
+      "per_change": "-0.40", 
+      "price": "186.15"
+    }, 
+    {
+      "change": "-5.95", 
+      "date": "28 Feb 2023", 
+      "name": "ZINC", 
+      "per_change": "-2.01", 
+      "price": "290.25"
+    }, 
+    {
+      "change": "7.20", 
+      "date": "28 Feb 2023", 
+      "name": "MENTHAOIL", 
+      "per_change": "0.71", 
+      "price": "1,023.30"
+    }
+  ]

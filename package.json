@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        
+        "server": "python WebScrapping-WebApp/app.py",
+        "client": "npm start --prefix real-time-price",
+        "dev": "concurrently \"npm run server\" \"npm run client\" ",
+        "data:import": "node backend/seeder",
+        "data:destroy": "node backend/seeder -d"
+      },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

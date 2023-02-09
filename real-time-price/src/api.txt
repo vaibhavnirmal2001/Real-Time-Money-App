@@ -1,0 +1,3 @@
+https://commodities-api.com/api/latest?access_key=5fja534t2w6pefc13qcsgf5hb10325djismt9u55ukd4efua0266ql0y3t83&base=USD&symbols=XAU,XAG,XPT
+
+https://metals-api.com/api/latest?access_key=1g2p1gp1xb6a47yu8ahgia50otmq4j9z0cmgj555s6qbjqtocr6w9v077axp&base=USD&symbols=XAU,XAG,XPT
